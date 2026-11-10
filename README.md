@@ -8,6 +8,6 @@ Rafael Rojas Naranjo
 
 | NOMBRE | GITHUB |
 |--------|--------|
-| Nombre del compañero 1 | [usuario1](https://github.com/rrojnar083) |
-| Nombre del compañero 2 | [usuario2](https://github.com/cmalloruiz0703) |
-| Nombre del compañero 3 | [usuario3](https://github.com/alejanjupe) |
+| Rafael Rojas Naranjo | [enlace](https://github.com/rrojnar083) |
+| Carlos Mallo Ruiz | [enlace](https://github.com/cmalloruiz0703) |
+| Alejandro Jurado Peñas | [enlace](https://github.com/alejanjupe) |
